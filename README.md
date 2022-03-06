@@ -69,10 +69,13 @@ You can find the README boilerplate for the Easy Trip website here.
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [Gitpod]https://www.gitpod.io/)
+    - The Gitpod is a cloud-based editor similar to the famous editor called VS Code.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
+
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
@@ -200,11 +203,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Credits
 
 ### Code
+-   The developer created a workspace for the project with the help of the [Code Institute GitPod tools template](https://github.com/Code-Institute-Org/gitpod-full-template).
 
 -   The README Template came from the [Code  Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md)
 
--   
--   
+
 ### Content
 
 -   All content was written by the developer.
