@@ -69,7 +69,7 @@ You can find the README boilerplate for the Easy Trip website here.
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Gitpod]https://www.gitpod.io/)
+1. [Gitpod](https://www.gitpod.io/)
     - The Gitpod is a cloud-based editor similar to the famous editor called VS Code.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
