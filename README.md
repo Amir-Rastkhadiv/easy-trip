@@ -258,11 +258,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   The README Template came from the [Code  Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md)
 
 
+
+
 ### Content
 
--   All content was written by the developer.
+- In creating the README table of contents, (Amir-Rastkhadiv/fun-gym)[https://github.com/Amir-Rastkhadiv/fun-gym] was very helpful.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+-   All content was written by the developer.
 
 ### Media
 
