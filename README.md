@@ -163,158 +163,220 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 -------------------------------------------------------------------
 
 
+- #### Content Requitements 
+
+- #### Functionality requirements:
+
+
+- #### Non-functional requirements:
+
+- #### Bussines ruless:
+
+- #### Releases 
+
+
+- ### STRUCTURE PLANE OVERVIEW
+
+
+------------------------------------------------------------------- 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+
+-------------------------------------------------------------------
+
+- ### (DESIGN) SKELETON PLANE 
+
+-  ### LAYOUTS
+
+### PEN AND PAPER SKETCHES
+
+The Fun Gym Project Pen and Paper Sketches can be viewed by following the link below or visiting the  layouts folder in the project repository. 
+
+[pen-paper-sketches](/layouts/pen-paper-sketches/)
+
+
+-  ### WIREFRAMES
+The Fun Gym Project Wireframes can be viewed by following the link below or visiting the  layouts folder in the project repository. 
+
+[wireframes](/layouts/wireframes/)
 
 
 
+  Home page  Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
+
+   Mobile Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
+
+ Contact Us Page Wireframe - [View](https://amir-rastkhadiv.github.io/fun-gym/
+)
+
+-  ### SURFACE PLANE
+
+The surface plane deals with visual languages like colours, fonts, orders, and sequences in contents. Mainly we are concerned about the readability and the site identity at this stage. You should make sure that your content is legible, that the font contrasts with the background, and that there are consistent patterns.
+
+To design Fun Gym, the developer addressed the following questions: 
+
+- Describe what the final result will appear? 
+- Which colours, typography, and design elements will you use?
+- How can users interact with the design?
+- Which effects will you implement on the site?
+- Where can users click?
+- How will users navigate?
+- Which version of the information will appear on the screen in the end?
+
+- ####  COLOUR SCHEME
+
+Colour improves the aesthetic appeal of a website in more than one way. Colour can also influence and evoke certain kinds of emotions in users. Colour psychology has served as a powerful tool for logo branding and marketing. 
+
+This summary of colour studies shows how Fun Gym's developer used those benefits in the logo and on all of its pages:  
+
+-  Colour Psychology :
+
+   * Red
+
+      - Excitement and energy 
+      - Youththul
+      - Bold 
+      - Urgency
+
+   *  White
+
+      - Simplicity
+      - Clarity 
+      - Purity
+      - Stability and peace
+
+    *  Green (Website in construction - progress bar)
+
+      - Growth and development
+      - Ratio and balance 
+      - Calmness, coolness and peace 
+
+    * Black 
+
+      - Classic
+      - Elegance and stylish
+      - Powerful 
+
+    * Yellow
+
+      - Feeling of happiness and joy  
+      - Optimissm 
+      - Powerful 
+
+    * Blue 
+    
+      - Reliable 
+      - Trust and Truth 
+      - Dependeble 
+      - Professional 
+      - Wisdom 
+
+-  Colour Pallete :
+
+The colour palette in the digital world is a collection of colours that create a certain mood or feel. Models for the design include colour wheels, subtractive colour models, and additive colour models. The most significant difference is their primary, secondary, and tertiary colours. The method of the Fun Gym website design includes model C. Indeed, The primary colours in an additive colour model are red, green, and blue (RGB). Also, the designer applied Hex triplets to represent RGB colours in the CSS style sheet.  
+
+![Figure 11: Colour models](./assets/img/fig-11-colour-models.png)
+
+<p align="center">Figure-11</p>
+
+Following our colour psychology section discussed earlier, warm colours like red and yellow create passionate feelings; cool colours like blue and green create reliable and calming moods; neutral colours soften or enhance sophisticated consistencies. In general, primary colours exert powerful visual and psychological effects. 
+
+Using warm and cool colours will not result in an aesthetically pleasing design. The solution is to use neutral colours. Colours in this category typically include black, white, grey, and various shades of brown.
+
+These colour schemes are purposely selected. My mind raced when I was deciding what sort of message I wanted Fun Gym to convey.The main colours used throughout the website are displayed in the follwing pallete. Contrast is achieved throughout the application by using white fonts.
+
+![Figure 12: Colour pallete1](./assets/img/fig-12-color%20-palette1.png)
+
+<p align="center">Figure-12</p>
+
+![Figure 13: Colour pallete1](./assets/img/fig-13-color-pallete2.png)
+
+<p align="center">Figure-13</p>
+
+
+- ####  TYPOGRAPHY
 
 
 
+- ####  IMAGERY
 
+There is an old saying that a picture is worth a thousand words. As a result, the human brain processes visuals 60,000 times faster than text, and people retain 80% of what they see but only 20% of what they do.
 
+There are the following main categories for the project images:
+1) [The Fun Gym website images](/assets/img/)
+2) [The README document Figures](#TABLE-OF-FIGURES)
+3) [Layouts(Wireframes/Sketches](#LAYOUTS)
+4) [Photos of tests' outcomes](#TESTING)
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+PNG (Portable Network Graphics) is the most commonly used image format in the Fun Gym project. Images in PNG can have 16 million colours. However, other forms, such as JPG or JPEG (JPG stands for Joint Photographic Experts Group), icons with appropriate animations, and PDF files, have been utilized. 
+ 
+To create each of those in the Fun Gym project, the designer applied different tools and resources. For further information, please have a look at the links below:
 
-    -   #### Returning Visitor Goals
+- [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
+- [CREDITS](#CREDITS)
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+## USER-JOURNEY 
 
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+- * ☞ **[testing.md file](/tests/testing.md).**
 
--   ### Design
-    -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
-    -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
-    -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
-
-*   ### Wireframes
-
-    -   Home Page Wireframe - [View](https://#)
-
-    -   Mobile Wireframe - [View](https://#)
-
-    -   Contact Us Page Wireframe - [View](https://#)
-
-## Features
+## FEATURES 
 
 -   Responsive on all device sizes
 
--   Interactive elements
+-   Social Media Links.
 
-## Technologies Used
+-  Links to external pages. 
 
-### Languages Used
+
+## TECHNOLOGIES-USED
+
+### LANGUAGES USED
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
--   [JavaScript]
 
-### Frameworks, Libraries & Programs Used
+### FRAMEWORKS,LIBRARIES & PROGRAMS USED
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - The developer has styled all project pages with the Lato and Open Sans fonts from Google Fonts in the style.css file. Sans Serif is the fall-back option should the import fail. 
+
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Gitpod](https://www.gitpod.io/)
-    - The Gitpod is a cloud-based editor similar to the famous editor called VS Code.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
-## Testing
+## TESTING
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-### Testing User Stories from User Experience (UX) Section
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
--   #### First Time Visitor Goals
+- For improving the quality of web pages, the Fun gym developer used the [Lighthouse](https://developers.google.com/web/tools/lighthouse) automated tool. The audit covers performance, accessibility, progressive web apps, SEO, etc.
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+- The developer evaluated the Fun Gym website with a tool called  [WAVE- WEBAIM](https://wave.webaim.org/waverunner).
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+- To meet the word limits for GitHub commits, meta tags, and so on, the project designer used [EASYWORDCOUNT](https://easywordcount.com/).
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+### RESULTS OF TESTS
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+- ☞ **[testing.md file ](/tests/testing.md).**
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+## DEPLOYMENT
 
--   #### Returning Visitor Goals
-
-    1. As a Returning Visitor, I want to find the new  ...... .
-
-        1. These are clearly shown in the  ......
-        2. They will be directed to a page with another ......
-
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-
-    3. As a Returning Visitor, I want to find the ..... link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the .... Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
-
--   #### Frequent User Goals
-
-    1. As a Frequent User, I want to check to see if there are any newly added .... .
-
-        1. The user would already be comfortable with the website layout and can easily click the ...... .
-
-    2. As a Frequent User, I want to check to see if there are any new...... .
-
-        1. The user would already be comfortable with the website layout and can easily click the blog link
-
-    3. As a Frequent User, I want to sign up to the ...... so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see .....  and are prompted to Enter their email address.
-       
-### Further Testing
-
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
-
-### Known Bugs
-
--   
-
-## Deployment
-
-### GitHub Pages
+### GITHUB PAGES
 
 The project was deployed to GitHub Pages using the following steps...
 
@@ -326,7 +388,7 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
-### Forking the GitHub Repository
+### FORKING THE GITHUB REPOSITORY
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
@@ -334,7 +396,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
-### Making a Local Clone
+### MAKING A LOCAL CLONE
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. Under the repository name, click "Clone or download".
@@ -360,13 +422,18 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
+
+
+### Known Bugs
+
+
+
 ## Credits
 
 ### Code
 -   The developer created a workspace for the project with the help of the [Code Institute GitPod tools template](https://github.com/Code-Institute-Org/gitpod-full-template).
 
 -   The README Template came from the [Code  Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md)
-
 
 
 
@@ -378,6 +445,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - I started with the [Code Institute](https://codeinstitute.net/blog/what-is-an-api/) website to understand API quickly and effectively. 
 
+- There were several helpful tips at the [duda](https://blog.duda.co/responsive-google-maps-for-your-website) website in the post 5 Ways To Add Responsive Google Maps To Your Website.
+
 -   All content was written by the developer.
 
 ### Media
@@ -387,5 +456,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Acknowledgements
 
 -  
+- 
 
--  
+
+------------------------------------------------------------------- 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
+|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+
+-------------------------------------------------------------------
