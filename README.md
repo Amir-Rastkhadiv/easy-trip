@@ -1,7 +1,12 @@
 <h1 align="center">Easy Trip Website is under construction.</h1>
 
+## ABSTRACT 
+
 You can find the README boilerplate for the Easy Trip website here. 
 [View the live project here.](#)
+
+## INTRODUCTION 
+
 
 ## TABLE OF CONTENTS:
 
@@ -72,12 +77,100 @@ You can find the README boilerplate for the Easy Trip website here.
 * [Figure-13](/)
 
 
+## INTERLUDE
 
-## User Experience (UX)
+- ### TOOLKITS:
 
--   ### User stories
+-  ### WEB DEVELOPMENT OF THE MODERN ERA:
 
-    -   #### First Time Visitor Goals
+-  ### A WEBPAGE? WHAT IS A WEBSITE? HOW ABOUT A GOOD ONE? 
+
+-  ### TERMINOLOGY:
+
+-  #### UXD
+   User experience refers to how something affects a person.
+This discipline ensures that a product works is simple, intuitive, and enjoyable to use.
+Embedding user experience strategies at the beginning of the development process is essential. UX is all about ensuring "yes" at all times.
+
+   -  #### UCD
+   By using user-centered design, we can achieve a positive user experience. In fact, user-centered design ensures that your product will be loved by users over and over again.
+
+   -  #### UID
+   In human-computer interaction (HCI), a user interface is the interface between humans and machines. In this way, the machine is controlled and operated from the human end, while simultaneously providing information to aid the operator's decision-making.
+
+   - #### WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?
+   A software craftsman believes that software design is more than just hammering the keyboard until your program works as it should. A good approach is to consider the total cost of ownership of a product, e.g., the costs of developing the software and fixing all the defects and maintaining it for many years to come.
+
+My work on the Fun Gym website has focused on generating positive user experiences by mapping, designing an incredible journey, and arranging details for creating the product, all while interacting with web applications.When you fully understand the framework's intricacies, it's enjoyable to write beautiful, well-factored code along with a deadline.
+
+Love Gym? Thriled to code? What about Coding Gym? 
+
+[Contact Fun Gym Engineer/Architect to Get started!](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/)
+
+## USER EXPERIENCE (UX)
+
+- ### GETTING STARTED
+
+To begin, let's review the essential What, Who, Which, and Where questions. Visual learners tend to find these simple WH questions easy since you can use visual aids, like a picture or an object, as hints. Then, it is simple to move on to asking "When," "Why," and "How."
+
+[Keep Things on Track by Asking the Right Questions](https://amir-rastkhadiv.github.io/fun-gym/)
+
+- ### WHAT EXACTLY IS USER EXPERIENCE?
+
+In a nutshell, a helpful, usable, and valuable product is user experience(UX). It identifies and describes a product's goals, user interface, and interaction with users to determine its success.
+
+There are five phases in UX: strategy, scope, structure, skeleton, and surface. These include tasks, functionality, and information. Therefore, it would be better to prioritize a specific project goal while simultaneously dealing with data.
+
+
+- ### WHAT IS THE UX SYSTEM IS USED FOR? 
+
+Using the above design system helps you do two things well: Improve consistency and receive coded patterns that you can quickly implement for the following project.
+A UX is composed of connected planes. Planes will exchange information, resulting in a complete product. In this process, flexibility is paramount.
+
+
+------------------------------------------------------------------- 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
+|---<button>[easy-trip](#))</button>---|
+
+-------------------------------------------------------------------
+
+- ### STRATEGY OVERVIEW (DESIGN AND BUSINESS)
+
+- ### WHAT IS THIS PRODUCT?
+
+
+-   ### USER STORIES
+
+-   #### First Time Visitor Goals: 
+
+-  #### Returning visitor goals: 
+
+-  #### Returning visitor goals: 
+
+-   #### Frequent User Goals
+
+-   #### Owner/Developer/Designer strategy plans  
+
+- ### SCOPE OVERVIEW (FUNCTIONAL SPECIFICATIONS AND CONTENT REQUIREMENTS)
+
+
+------------------------------------------------------------------- 
+|--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
+|--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
+|---<button>[Fun Gym](#)</button>---|
+
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
