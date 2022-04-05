@@ -279,7 +279,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-- In creating the README table of contents, (Amir-Rastkhadiv/fun-gym)[https://github.com/Amir-Rastkhadiv/fun-gym] was very helpful.
+- In creating the README table of contents, [Amir-Rastkhadiv/fun-gym](https://github.com/Amir-Rastkhadiv/fun-gym) was very helpful.
+
+-  [Ozchen's website](https://ozchen.com/5-planes-content-strategy/) and modified it for the UX design section. 
+
+- I started with the [Code Institute](https://codeinstitute.net/blog/what-is-an-api/) website to understand API quickly and effectively. 
 
 -   All content was written by the developer.
 
