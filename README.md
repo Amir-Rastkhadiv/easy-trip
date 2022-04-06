@@ -435,6 +435,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   The README Template came from the [Code  Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md)
 
+- I found the [Travel Advisor](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel) and [Open Weather Map](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube) helpful.
+
+
 
 
 ### Content
