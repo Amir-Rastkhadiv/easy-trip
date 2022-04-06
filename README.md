@@ -101,11 +101,11 @@ Embedding user experience strategies at the beginning of the development process
    - #### WHAT DOES SOFTWARE CRAFTMANSHIP ENTAIL?
    A software craftsman believes that software design is more than just hammering the keyboard until your program works as it should. A good approach is to consider the total cost of ownership of a product, e.g., the costs of developing the software and fixing all the defects and maintaining it for many years to come.
 
-My work on the Fun Gym website has focused on generating positive user experiences by mapping, designing an incredible journey, and arranging details for creating the product, all while interacting with web applications.When you fully understand the framework's intricacies, it's enjoyable to write beautiful, well-factored code along with a deadline.
+My work on the website has focused on generating positive user experiences by mapping, designing an incredible journey, and arranging details for creating the product, all while interacting with web applications.When you fully understand the framework's intricacies, it's enjoyable to write beautiful, well-factored code along with a deadline.
 
-Love Gym? Thriled to code? What about Coding Gym? 
+Love Journey? Thriled to code? What about coding an easy trip?  
 
-[Contact Fun Gym Engineer/Architect to Get started!](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/)
+[Contact Easy Trip Engineer/Architect to Get started!](https://amir-rastkhadiv.github.io/arastkhadiv-portfolio/)
 
 ## USER EXPERIENCE (UX)
 
@@ -158,7 +158,7 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 ------------------------------------------------------------------- 
 |--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
 |--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
-|---<button>[Fun Gym](#)</button>---|
+|---<button>[Easy Trip](#)</button>---|
 
 -------------------------------------------------------------------
 
@@ -181,7 +181,7 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 ------------------------------------------------------------------- 
 |--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
 |--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
-|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+|---<button>[EASY TRIP](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
 
 -------------------------------------------------------------------
 
@@ -191,13 +191,13 @@ A UX is composed of connected planes. Planes will exchange information, resultin
 
 ### PEN AND PAPER SKETCHES
 
-The Fun Gym Project Pen and Paper Sketches can be viewed by following the link below or visiting the  layouts folder in the project repository. 
+The Easy Trip Project Pen and Paper Sketches can be viewed by following the link below or visiting the  layouts folder in the project repository. 
 
 [pen-paper-sketches](/layouts/pen-paper-sketches/)
 
 
 -  ### WIREFRAMES
-The Fun Gym Project Wireframes can be viewed by following the link below or visiting the  layouts folder in the project repository. 
+The Easy Trip Project Wireframes can be viewed by following the link below or visiting the  layouts folder in the project repository. 
 
 [wireframes](/layouts/wireframes/)
 
@@ -216,7 +216,7 @@ The Fun Gym Project Wireframes can be viewed by following the link below or visi
 
 The surface plane deals with visual languages like colours, fonts, orders, and sequences in contents. Mainly we are concerned about the readability and the site identity at this stage. You should make sure that your content is legible, that the font contrasts with the background, and that there are consistent patterns.
 
-To design Fun Gym, the developer addressed the following questions: 
+To design Easy Trip, the developer addressed the following questions: 
 
 - Describe what the final result will appear? 
 - Which colours, typography, and design elements will you use?
@@ -230,7 +230,7 @@ To design Fun Gym, the developer addressed the following questions:
 
 Colour improves the aesthetic appeal of a website in more than one way. Colour can also influence and evoke certain kinds of emotions in users. Colour psychology has served as a powerful tool for logo branding and marketing. 
 
-This summary of colour studies shows how Fun Gym's developer used those benefits in the logo and on all of its pages:  
+This summary of colour studies shows how Easy Trip's developer used those benefits in the logo and on all of its pages:  
 
 -  Colour Psychology :
 
@@ -276,23 +276,23 @@ This summary of colour studies shows how Fun Gym's developer used those benefits
 
 -  Colour Pallete :
 
-The colour palette in the digital world is a collection of colours that create a certain mood or feel. Models for the design include colour wheels, subtractive colour models, and additive colour models. The most significant difference is their primary, secondary, and tertiary colours. The method of the Fun Gym website design includes model C. Indeed, The primary colours in an additive colour model are red, green, and blue (RGB). Also, the designer applied Hex triplets to represent RGB colours in the CSS style sheet.  
+The colour palette in the digital world is a collection of colours that create a certain mood or feel. Models for the design include colour wheels, subtractive colour models, and additive colour models. The most significant difference is their primary, secondary, and tertiary colours. The method of the Easy Trip website design includes model C. Indeed, The primary colours in an additive colour model are red, green, and blue (RGB). Also, the designer applied Hex triplets to represent RGB colours in the CSS style sheet.  
 
-![Figure 11: Colour models](./assets/img/fig-11-colour-models.png)
+![Figure 11: Colour models](./)
 
-<p align="center">Figure-11</p>
+<p align="center">Figure</p>
 
 Following our colour psychology section discussed earlier, warm colours like red and yellow create passionate feelings; cool colours like blue and green create reliable and calming moods; neutral colours soften or enhance sophisticated consistencies. In general, primary colours exert powerful visual and psychological effects. 
 
 Using warm and cool colours will not result in an aesthetically pleasing design. The solution is to use neutral colours. Colours in this category typically include black, white, grey, and various shades of brown.
 
-These colour schemes are purposely selected. My mind raced when I was deciding what sort of message I wanted Fun Gym to convey.The main colours used throughout the website are displayed in the follwing pallete. Contrast is achieved throughout the application by using white fonts.
+These colour schemes are purposely selected. My mind raced when I was deciding what sort of message I wanted Easy Trip to convey.The main colours used throughout the website are displayed in the follwing pallete. Contrast is achieved throughout the application by using white fonts.
 
-![Figure 12: Colour pallete1](./assets/img/fig-12-color%20-palette1.png)
+![Figure 12: Colour pallete1](./assets/img/)
 
-<p align="center">Figure-12</p>
+<p align="center">Figure</p>
 
-![Figure 13: Colour pallete1](./assets/img/fig-13-color-pallete2.png)
+![Figure 13: Colour pallete1](./assets/img/)
 
 <p align="center">Figure-13</p>
 
@@ -306,14 +306,14 @@ These colour schemes are purposely selected. My mind raced when I was deciding w
 There is an old saying that a picture is worth a thousand words. As a result, the human brain processes visuals 60,000 times faster than text, and people retain 80% of what they see but only 20% of what they do.
 
 There are the following main categories for the project images:
-1) [The Fun Gym website images](/assets/img/)
+1) [](/assets/img/)
 2) [The README document Figures](#TABLE-OF-FIGURES)
 3) [Layouts(Wireframes/Sketches](#LAYOUTS)
 4) [Photos of tests' outcomes](#TESTING)
 
-PNG (Portable Network Graphics) is the most commonly used image format in the Fun Gym project. Images in PNG can have 16 million colours. However, other forms, such as JPG or JPEG (JPG stands for Joint Photographic Experts Group), icons with appropriate animations, and PDF files, have been utilized. 
+PNG (Portable Network Graphics) is the most commonly used image format in the Easy Trip project. Images in PNG can have 16 million colours. However, other forms, such as JPG or JPEG (JPG stands for Joint Photographic Experts Group), icons with appropriate animations, and PDF files, have been utilized. 
  
-To create each of those in the Fun Gym project, the designer applied different tools and resources. For further information, please have a look at the links below:
+To create each of those in the Easy Trip project, the designer applied different tools and resources. For further information, please have a look at the links below:
 
 - [TECHNOLOGIES-USED](#TECHNOLOGIES-USED)
 - [CREDITS](#CREDITS)
@@ -364,9 +364,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
-- For improving the quality of web pages, the Fun gym developer used the [Lighthouse](https://developers.google.com/web/tools/lighthouse) automated tool. The audit covers performance, accessibility, progressive web apps, SEO, etc.
+- For improving the quality of web pages, the Easy Trip developer used the [Lighthouse](https://developers.google.com/web/tools/lighthouse) automated tool. The audit covers performance, accessibility, progressive web apps, SEO, etc.
 
-- The developer evaluated the Fun Gym website with a tool called  [WAVE- WEBAIM](https://wave.webaim.org/waverunner).
+- The developer evaluated the Easy Trip website with a tool called  [WAVE- WEBAIM](https://wave.webaim.org/waverunner).
 
 - To meet the word limits for GitHub commits, meta tags, and so on, the project designer used [EASYWORDCOUNT](https://easywordcount.com/).
 
@@ -435,7 +435,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   The README Template came from the [Code  Institute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md)
 
-- I found the [Travel Advisor](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel) and [Open Weather Map](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube) helpful.
+- I found the [Travel Advisor](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel) and [Open Weather Map](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube) from the [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel) weebsite helpful.
+
 
 
 
@@ -443,8 +444,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Content
 
 - In creating the README table of contents, [Amir-Rastkhadiv/fun-gym](https://github.com/Amir-Rastkhadiv/fun-gym) was very helpful.
-
--  [Ozchen's website](https://ozchen.com/5-planes-content-strategy/) and modified it for the UX design section. 
 
 - I started with the [Code Institute](https://codeinstitute.net/blog/what-is-an-api/) website to understand API quickly and effectively. 
 
@@ -465,6 +464,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ------------------------------------------------------------------- 
 |--- <button>[TABLE OF FIGURES ⇧](#TABLE-OF-FIGURES)</button>---|
 |--- <button>[TABLE OF CONTENTS ⇧⇧](#TABLE-OF-CONTENTS)</button>---| |--- <button>[Back To Top ⇧⇧⇧](#)</button>--- |
-|---<button>[Fun Gym](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
+|---<button>[Easy Trip](https://amir-rastkhadiv.github.io/fun-gym/)</button>---|
 
 -------------------------------------------------------------------
