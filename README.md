@@ -21,10 +21,11 @@ APIs suit visitor needs and allows users to search for their next holiday destin
 
 Last but not least, the developer/owner of this website has incorporated design and technology to produce an excellent website using User Experience Design (UXD). The development of a captivating website follows the principles, standards, and professional advice provided by South Devon University Centre College and the Code Institute.
 
+We offer[ Easy Trip](#)planning for your holiday.
 
 ## TABLE OF CONTENTS:
 
-- [ABSTRACT](#ABSTRACT)                                          
+- [ABSTRACT](#ABSTRACT)                         
 - [INTRODUCRION](#INTRODUCTION)
 - [INTERLUDE](#INTERLUDE) 
   * [TOOLKITS](#TOOLKITS)
