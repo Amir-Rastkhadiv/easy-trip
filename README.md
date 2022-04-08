@@ -2,7 +2,12 @@
 
 ## ABSTRACT 
 
-You can find the README boilerplate for the Easy Trip website here. 
+I am impressed with your interest in reading the [Easy Trip](#) website's README file. As part of Code Institute's Leading Technologies HTML5 and CSS3 and JavaScripts course, I will present the Interactive Frontend Development Milestone Project-2. 
+
+I promise to convey everything that I know. Ask me anything! I welcome ideas, suggestions, feedback, and the occasional rant.
+
+If you need to contact me, you can visit the Easy Trip [website](#). Or submit an issue on this [repository](https://github.com/Amir-Rastkhadiv/easy-trip). Please do!
+
 [View the live project here.](#)
 
 ## INTRODUCTION 
