@@ -12,7 +12,7 @@ If you need to contact me, you can visit the Easy Trip [website](#). Or submit a
 
 ## INTRODUCTION 
 
-With Easy Trip, travellers can plan their trips with ease. Users can find the best holiday destination for their needs. The website allows visitors to explore cities worldwide.Travellers will be able to access information about local attractions and accommodations and search for hotels and weather forecasts. 
+With Easy Trip, travellers can plan their trips with ease. Users can find the best holiday destination for their needs. The website allows visitors to explore cities worldwide. Travellers will be able to access information about local attractions and accommodations and search for hotels and weather forecasts. 
 
 The application is highly user-friendly, enabling users to access data, maps, and travel packages by selecting /searching from the site or its sponsors, meeting their desired goals for holidaymakers while ensuring they receive the best possible experience.
 
@@ -21,7 +21,7 @@ APIs suit visitor needs and allows users to search for their next holiday destin
 
 Last but not least, the developer/owner of this website has incorporated design and technology to produce an excellent website using User Experience Design (UXD). The development of a captivating website follows the principles, standards, and professional advice provided by South Devon University Centre College and the Code Institute.
 
-We offer[ Easy Trip](#)planning for your holiday.
+We offer [ Easy Trip](#)planning for your holiday.
 
 ## TABLE OF CONTENTS:
 
