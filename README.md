@@ -2,11 +2,11 @@
 
 ## ABSTRACT 
 
-I am impressed with your interest in reading the [Easy Trip](#) website's README file. As part of Code Institute's Leading Technologies HTML5 and CSS3 and JavaScripts course, I will present the Interactive Frontend Development Milestone Project-2. 
+I am impressed with your interest in reading the [Easy Trip](https://amir-rastkhadiv.github.io/easy-trip/) website's README file. As part of Code Institute's Leading Technologies HTML5 and CSS3 and JavaScripts course, I will present the Interactive Frontend Development Milestone Project-2. 
 
 I promise to convey everything that I know. Ask me anything! I welcome ideas, suggestions, feedback, and the occasional rant.
 
-If you need to contact me, you can visit the Easy Trip [website](#). Or submit an issue on this [repository](https://github.com/Amir-Rastkhadiv/easy-trip). Please do!
+If you need to contact me, you can visit the Easy Trip [website](https://amir-rastkhadiv.github.io/easy-trip/). Or submit an issue on this [repository](https://github.com/Amir-Rastkhadiv/easy-trip). Please do!
 
 [View the live project here.](#)
 
@@ -21,7 +21,7 @@ APIs suit visitor needs and allows users to search for their next holiday destin
 
 Last but not least, the developer/owner of this website has incorporated design and technology to produce an excellent website using User Experience Design (UXD). The development of a captivating website follows the principles, standards, and professional advice provided by South Devon University Centre College and the Code Institute.
 
-We offer [ Easy Trip](#)planning for your holiday.
+We offer [ Easy Trip](https://amir-rastkhadiv.github.io/easy-trip/)planning for your holiday.
 
 ## TABLE OF CONTENTS:
 
