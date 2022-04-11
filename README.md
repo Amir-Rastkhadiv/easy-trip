@@ -8,7 +8,7 @@ I promise to convey everything that I know. Ask me anything! I welcome ideas, su
 
 If you need to contact me, you can visit the Easy Trip [website](https://amir-rastkhadiv.github.io/easy-trip/). Or submit an issue on this [repository](https://github.com/Amir-Rastkhadiv/easy-trip). Please do!
 
-[View the live project here.](#)
+[View the live project here.](https://amir-rastkhadiv.github.io/easy-trip/)
 
 ## INTRODUCTION 
 
