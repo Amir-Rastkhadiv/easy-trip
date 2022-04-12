@@ -462,7 +462,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - I started with the [Code Institute](https://codeinstitute.net/blog/what-is-an-api/) website to understand API quickly and effectively. 
 
+
 - There were several helpful tips at the [duda](https://blog.duda.co/responsive-google-maps-for-your-website) website in the post 5 Ways To Add Responsive Google Maps To Your Website.
+
+- The [Wix Blog](https://www.wix.com/blog/2017/03/psychology-design-how-to-use-colors-to-evoke-emotions?utm_source=google&utm_medium=cpc&utm_campaign=13774768257^126077909722&experiment_id=^^531699814064^^_DSA&gclid=CjwKCAjwxOCRBhA8EiwA0X8hi0CLyKO7rFEw643niL79Kw-VvqOSLcNbZHs49RJezKu8Dw1UL-mQPxoCfvIQAvD_BwE) is where the idea for Fun Gym colour psychology came from. 
+
+- In choosing the colour palette for the Easy Trip website, I found [sarahtitus](https://www.sarahtitus.com/25-best-travel-destinations-color-palettes/) page to be very helpful.
 
 -   All content was written by the developer.
 
